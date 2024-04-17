@@ -1,0 +1,62 @@
+.banner-right-cont {
+    padding:90px;
+}
+.banner-left-cont{
+    padding: 50px ;
+}
+
+.dropdown-style {
+    border: none;
+    background-color: white;
+}
+
+.fruit-fresh-style {
+    color: #114232;
+    font-weight: bolder;
+}
+
+.vegetable-organic-style {
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+.search-input-style {
+    background-color: rgba(255, 255, 255, 0.841);
+    padding: 10px;
+    border:none;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.search-btn-style {
+    padding: 10px 20px;
+    background-color: #114232;
+    border: none;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+}
+.search-btn-style:hover {
+    padding: 10px 20px;
+    background-color: #114232db;
+    border: none;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.shopnow-style {
+    padding: 10px 20px;
+    background-color: #FCDC2A;
+    border: none;
+    color: black;
+    border-radius: 5px;
+}
+.shopnow-style:hover {
+    padding: 10px 20px;
+    background-color: #fcdc2ad1;
+    border: none;
+    color: black;
+    border-radius: 5px;
+}
+
+.vegetable-img-style {
+    width: 85%;
+}

@@ -1,0 +1,41 @@
+.product-card{
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid rgb(239, 239, 239);
+    border-radius: 10px;
+    margin: 15px;
+}
+.product-card:hover{
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 0 50px #ccc;
+    border-radius: 10px;
+    margin: 15px;
+}
+.product-description{
+    background-color: #F7F6BB;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+.put-in-basket-btn{
+    padding: 10px 20px;
+    background-color: #FCDC2A;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.put-in-basket-btn:hover{
+    padding: 10px 20px;
+    background-color: #fcdc2ad3;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}

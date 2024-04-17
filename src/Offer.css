@@ -1,0 +1,47 @@
+.offer-cont1-fruits-img{
+    background-image: url("./images/allfruits.png");
+    border-radius: 10px;
+    background-size: cover;
+    margin: 10px;
+    box-shadow: 0 0 50px #ccc;
+}
+
+.offer-cont-fruits{
+    padding: 40px;
+}
+
+.offer-cont2-fruits-img{
+    background-image: url("./images/oceanfood.png");
+    background-size: cover;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 0 0 50px #ccc;
+}
+
+.offer-cont-oceanfood{
+    padding: 40px ;
+}
+
+.shopNow{
+    padding: 10px 20px;
+    background-color: rgb(255, 45, 45);
+    border: none;
+    color: black;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+.shopNow:hover{
+    padding: 10px 20px;
+    background-color: rgba(255, 45, 45, 0.789);
+    border: none;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.offer-align{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}

@@ -1,0 +1,21 @@
+.login_btn_style{
+    padding: 5px 15px 5px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #114232;
+    color: white;
+}
+.login_btn_style:hover{
+    padding: 5px 15px 5px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #114232dd;
+    color: white;
+}
+.nav-bar-style{
+    background-color: #F7F6BB;
+}
+.logo-text{
+    font-weight: 800;
+    font-size: large;
+}
