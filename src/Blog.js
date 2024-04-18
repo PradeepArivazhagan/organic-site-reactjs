@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faComment, faCalendarDays,faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 const Blog = () => {
-  const [blogs, setblog] = useState([
+  const [blogs] = useState([
     {
       blogimg: blog1,
       blogdate: "Mar 4,2024",

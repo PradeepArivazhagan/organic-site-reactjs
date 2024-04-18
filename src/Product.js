@@ -10,7 +10,7 @@ import almond from "./images/almond.png";
 import mutton from "./images/mutton.png";
 
 const Product = () => {
-  const [products, setproduct] = useState([
+  const [products] = useState([
     {
       imageurl: chicken,
       name: "Chicken",
