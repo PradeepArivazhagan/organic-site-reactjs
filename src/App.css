@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "Studio-Fexian-Sans";
+    src: url("/Fonts/StudioFeixenSansTRIAL-Medium.ttf");
+}
+
 .app{
-    font-family: "Poppins", sans-serif;
+    font-family: "Studio-Fexian-Sans", sans-serif;
     font-weight: 400;
     font-style: normal;
 }
